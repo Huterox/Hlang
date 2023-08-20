@@ -6,64 +6,62 @@ Hlang是一款基于Python编写的支持中英文混合编程的动态语言。
 
 ## 下载
 前往：[https://gitee.com/Huterox/hlang](https://gitee.com/Huterox/hlang) 下载最新发行版本，就可以下载得到最新的Hlang。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/9c618c3e4e7b42f5ba83ef7cb4fda0c2.png)
-
+![输入图片说明](imgs/image.png)
 下载解压，得到完整的目录。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/9306ba8a2eb946ae94ddc0a9807c9fb5.png)
+![输入图片说明](imgs/sdsda.png)
 点击：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/000e69d248e34c3ca9e8012bb9cd2ddb.png)
+![输入图片说明](imgs/imagesd.png)
 就可以打开Hlang。
 接下来，我们就可以来一个最经典的"Hello world"。
-![在这里插入图片描述](https://img-blog.csdnimg.cn/b04a192b7f274213925e858e2b090965.png)
+![输入图片说明](imgs/imagesad.png)
 
 ## 配置环境变量
 为了能够跟好的使用Hlang,因此在下载Hlang之后，可以为此配置环境变量。这样一来在终端就能快速打开Hlang。
 
 打开高级系统设置：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/360faed233524cff8dedb0c3ddcffb0a.png)
+![输入图片说明](imgs/imagesss.png)
 点击环境变量配置：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/26279b5d89b7432a9e0cfc64a1cd416c.png)
+![输入图片说明](imgs/imagesdsadad.png)
 然后点击添加环境变量即可：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/7fd418c86389499380f72ccb9350bd67.png)
+![输入图片说明](imgs/imagesssssssss.png)
 
 之后打开终端输入 Hlang.exe即可进入Hlang终端：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/c00032c65c6d45419fdf3146cf231488.png)
+![输入图片说明](imgs/imagesdas.png)
 # 特性
 
 
 Hlang作为一个教学语言，因此，为了大大降低入门门槛，支持在支持英文编程的同时，支持中文编程。
 接下来请看到这几个案例。
 ## 中文关键字
-![在这里插入图片描述](https://img-blog.csdnimg.cn/dee8e8bc22854aff813fafee890a6e23.png)
+![输入图片说明](imgs/imagea26.png)
 通过关键字 `设` 就可以创建一个变量。同时也支持英文：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/8b98e0e2336549fea5e19dd0507943ef.png)
+![输入图片说明](imgs/image564656.png)
 
 ## 支持中文符号
 
 此外，支持多个关键字混合编程，同时支持中文标点：
 这是一个数学运算案例：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/465b10180d8b45b5adbf768404494c03.png)
+![输入图片说明](imgs/imageasa.png)
 之后的话，切换为中文：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/00b78c3db4ef47febe3188aa79dfb574.png)
+![输入图片说明](imgs/imaasda.png)
 可以发现依然可以正常工作，并且中英文字符同时出现在一个表达式当中
 ## 混合编程
 在实际编程当中，中文关键字和英文关键字可以同时出现：
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/84edb1874d7a4d3c85943401cbbf6f3d.png)
+![输入图片说明](imgs/imagdadas.png)
 ## 中文错误提示
 为了更加方便学习和定位错误，Hlang支持中文报错：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2ab6e215f56c42138f48f87b209298fd.png)
+![输入图片说明](imgs/imageasdad.png)
 ## 终端多行输入
 此外，Hlang在终端也支持多行输入语句。通过 ; 进行间隔。（在代码文本当中，也支持;进行语句隔断，也可以直接通过换行）
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/d5a0dd7f41df46658d618c70ac2c2b99.png)
+![输入图片说明](imgs/imageasdasdasd.png)
 
 # 基本数据类型
 Hlang支持如下数据结构：
 ## 整数
-![在这里插入图片描述](https://img-blog.csdnimg.cn/1dc0e565bc2b4420b7cfdd81610e997e.png)
-## 浮点数
+![在这里插入图片描述](https://img-blog.csdnimg.cn/1dc0e565bc2b4420b7cfdd81610e997e.png)![输入图片说明](imgs/imageasdasdas.png)## 浮点数
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/47d1bc50e16c461fa476559f78449805.png)
 ## 列表
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/6d810f0876d946cc89427abd5bed7039.png)
