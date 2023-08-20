@@ -1,13 +1,9 @@
-print("Hello")
-print("World")
-fun join(elements, separator)
-	var result = ""
-	var len = len(elements)
+var a="Hello"
+var b="World"
 
-	for i = 0 to len then
-		var result = result + elements/i
-		if i != len - 1 then var result = result + separator
-	end
+fun add_str(a,b) then
+   var res = a + b
+   return res
 
-	return result
-end
+var c = add_str(a,b)
+print(c)
