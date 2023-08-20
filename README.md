@@ -254,16 +254,21 @@ end
 ```
 ![输入图片说明](imgs/imageasnghm,dss.png)
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2fda76a13ca04f40aa72329f1c84e498.png)
+![输入图片说明](imgs/adsavserb.png)
+
 ## 函数
 之后是Hlang的函数定义：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/8a2bc8f38011445480ecec8d67abf6d6.png)
+
+![输入图片说明](imgs/imageasdaasvaae.png)
 
 执行结果：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/d3f5343dfa9447bbb00c3aa0cb008ceb.png)
+
+![输入图片说明](imgs/imageagjtmrtwb%20we.png)
 
 注意在终端的话，也可以这样定义函数：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/c417beab9b484c8fb87c5649a8dd6a97.png)
+
+![输入图片说明](imgs/iasdvregerbmage.png)
 
 同理，我们依然可以使用中文进行编程
-![在这里插入图片描述](https://img-blog.csdnimg.cn/f138c30342be4dc881eea3ea7d2924f5.png)
+
+![输入图片说明](imgs/imageakshuydgfvhjdsichg.png)
