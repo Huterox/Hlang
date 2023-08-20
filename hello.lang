@@ -1,0 +1,13 @@
+print("Hello")
+print("World")
+fun join(elements, separator)
+	var result = ""
+	var len = len(elements)
+
+	for i = 0 to len then
+		var result = result + elements/i
+		if i != len - 1 then var result = result + separator
+	end
+
+	return result
+end
